@@ -9,8 +9,8 @@
 /* ==========================================================================
 Swag
 ========================================================================== */
-.swag { background: url('../images/scroll_1.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 50px 0; }
-.swag1 { background: url('../images/scroll_2.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 50px 0; }
+.swag { background: url('../img/scroll_1.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 50px 0; }
+.swag1 { background: url('../img/scroll_2.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 50px 0; }
 
 .swag h1 { color: #fff; font-size: 40px;letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 40px; }
@@ -494,7 +494,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-hero {
   min-height: 700px;
-  background: #fff url(../images/loader.gif) no-repeat center center;
+  background: #fff url(../img/loader.gif) no-repeat center center;
 }
 #fh5co-hero .btn {
   font-size: 24px;
