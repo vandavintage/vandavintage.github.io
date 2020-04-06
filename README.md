@@ -1,1 +1,0 @@
-# vandavintage.github.io
